@@ -16,7 +16,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Localizations ==
 
 * English (Default)
-* Portugu&ecirc;s
+* Português
 
 == Description ==
 
@@ -25,14 +25,14 @@ Responsive jQuery Slider - jQuery Cycle 2 with Animate.css with some really cool
 = Languages: =
 
 * English (Default)
-* Portugu&ecirc;s
+* Português
 
 = Demos =
 
 Sign in for see the demos, all my plugins...
 
-Front-end: http://www.chrdesigner.com/demo/
-Back-end: http://www.chrdesigner.com/demo/login/
+* Front-end: http://www.chrdesigner.com/demo/
+* Back-end: http://www.chrdesigner.com/demo/login/
 
 
 == Installation ==
@@ -48,7 +48,7 @@ Back-end: http://www.chrdesigner.com/demo/login/
 * In "Responsive jQuery Slider - Settings", you have control in different styles for presentation the image, texts, times for transition and another things.
 * For register the Sliders, you go to the page "Sliders -> Add New".
 * In "Add New Slider", you have three Caption for register your text and each has a different style and color, size and position. For register one link you have two options: First you can link to a page or post and Second you can personalize your destination. Click in "Set slider image" and select your desired image.
-* Use the function &lt;?php if (function_exists("chr_responsive_jquery_slider")) { chr_responsive_jquery_slider(); }?&gt; for show the Responsive jQuery Slider in your site.
+* Use the function <?php if (function_exists("chr_responsive_jquery_slider")) { chr_responsive_jquery_slider(); }?> for show the Responsive jQuery Slider in your site.
 
 
 == Frequently Asked Questions ==
