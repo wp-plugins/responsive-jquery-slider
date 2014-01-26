@@ -27,6 +27,14 @@ Responsive jQuery Slider - jQuery Cycle 2 with Animate.css with some really cool
 * English (Default)
 * Portugu&ecirc;s
 
+= Demo =
+
+Sign in for see the demos, all my plugins...
+
+Front-end: http://www.chrdesigner.com/demo/
+Back-end: http://www.chrdesigner.com/demo/login/
+
+
 == Installation ==
 
 = Installation =
