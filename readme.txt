@@ -25,7 +25,7 @@ Responsive jQuery Slider - jQuery Cycle 2 with Animate.css with some really cool
 = Languages: =
 
 * English (Default)
-* Português
+* Portugu&ecirc;s
 
 = Demos =
 
