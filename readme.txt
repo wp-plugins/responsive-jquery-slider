@@ -16,7 +16,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Localizations ==
 
 * English (Default)
-* Português
+* Portugu&ecirc;s
 
 == Description ==
 
