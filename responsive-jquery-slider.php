@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Responsive jQuery Slider
-Version: 1.1.0
+Version: 1.1.q
 Description: Responsive jQuery Slider - jQuery Cycle 2 with Animate.css with some really cool animations.
 Author: CHR Designer
 Author URI: http://www.chrdesigner.com
