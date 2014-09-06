@@ -6,9 +6,9 @@ Tags: slider, jquery, cycle2, responsive, animate
 
 Requires at least: 3.0
 
-Tested up to: 3.8.0
+Tested up to: 4.0
 
-Stable tag: 1.0.1
+Stable tag: 1.1.0
 License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -17,6 +17,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 * English (Default)
 * Portugu&ecirc;s
+* Serbian by [Ogi Djuraskovic](http://firstsiteguide.com/)
+* Spanish by [Ogi Djuraskovic](http://firstsiteguide.com/)
 
 == Description ==
 
@@ -26,14 +28,26 @@ Responsive jQuery Slider - jQuery Cycle 2 with Animate.css with some really cool
 
 * English (Default)
 * Portugu&ecirc;s
+* Serbian by [Ogi Djuraskovic](http://firstsiteguide.com/)
+* Spanish by [Ogi Djuraskovic](http://firstsiteguide.com/)
 
-= Demos =
+= Demo =
+
+http://www.chrdesigner.com/demo/
+
+= How Install =
+
+http://www.chrdesigner.com/demo/plugins/responsive-jquery-slider
+
+= Look for all my plugins =
 
 Sign in for see the demos, all my plugins...
 
-* Front-end: http://www.chrdesigner.com/demo/
-* Back-end: http://www.chrdesigner.com/demo/login/
+Front-end: http://www.chrdesigner.com/demo/
 
+Back-end: http://www.chrdesigner.com/demo/login/
+
+Username: demo - Password: demo
 
 == Installation ==
 
@@ -48,7 +62,7 @@ Sign in for see the demos, all my plugins...
 * In "Responsive jQuery Slider - Settings", you have control in different styles for presentation the image, texts, times for transition and another things.
 * For register the Sliders, you go to the page "Sliders -> Add New".
 * In "Add New Slider", you have three Caption for register your text and each has a different style and color, size and position. For register one link you have two options: First you can link to a page or post and Second you can personalize your destination. Click in "Set slider image" and select your desired image.
-* Use the function <?php if (function_exists("chr_responsive_jquery_slider")) { chr_responsive_jquery_slider(); }?> for show the Responsive jQuery Slider in your site.
+* Use the function &lt;?php if (function_exists("chr_responsive_jquery_slider")) { chr_responsive_jquery_slider(); }?&gt; or &#91;chr_responsive_jquery_slider&#93; for show the Responsive jQuery Slider in your site.
 
 
 == Frequently Asked Questions ==
@@ -78,6 +92,20 @@ This plugin is licensed under GPL.
 
 * Updated a bug.
 
+= 1.1.0 =
+
+* Added Support to Serbian Language
+* Added Support to Spanish Language
+* New button for hidden the effect images slider.
+* Support for Shortcode.
+* New Page Settings
+* Fixed Bugs
+* Update jQuery Cycle2; version: 2.1.5 build: 20140415
+* Update Animate.css; Version: 2014
+* Added new animations for text
+* Support for touch devices
+* Removed Transition Slider Shuffle
+
 == Upgrade Notice ==
 
 = 1.0.0 =
@@ -87,6 +115,10 @@ This plugin is licensed under GPL.
 = 1.0.1 =
 
 * Updated a bug.
+
+= 1.1.0 =
+
+* I made many updates, like: Added Support to Serbian - Spanish Language, Support for Shortcode, Support for touch devices and update jQuery Cycle2 for new version.
 
 == License ==
 
