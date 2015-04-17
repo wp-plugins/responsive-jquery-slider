@@ -1,7 +1,7 @@
 === Responsive jQuery Slider ===
 
 Contributors: chrdesigner
-Donate link: 
+Donate link: http://www.chrdesigner.com/donate/
 Tags: slider, jquery, cycle2, responsive, animate
 
 Requires at least: 3.0
@@ -30,6 +30,10 @@ Responsive jQuery Slider - jQuery Cycle 2 with Animate.css with some really cool
 * Portugu&ecirc;s
 * Serbian by [Ogi Djuraskovic](http://firstsiteguide.com/)
 * Spanish by [Ogi Djuraskovic](http://firstsiteguide.com/)
+
+= Translate: =
+
+Do you want help me translate this plugin for your language? Please, send me your file <strong>.po</strong> for my email <mailto:chrdesigner@chrdesigner.com>
 
 = Demo =
 
